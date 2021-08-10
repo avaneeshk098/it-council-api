@@ -1,0 +1,7 @@
+db.sqlite3
+creds.json
+Procfile
+__pycache__/
+mysite/__pycache__
+*/.DS_Store
+mysite/settings.py
